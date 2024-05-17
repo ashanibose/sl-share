@@ -3,7 +3,7 @@
 A command line tool to navigate and scan webapplications.
 
 ## Run instruction
-java -Xmx1024m -Xms1024m -jar scriptless-cli-<version>.RELEASE.jar
+java -Xmx1024m -Xms1024m -jar scriptless-cli-<<version></version>.RELEASE.jar
 
 ## Features
 - **Clears data**
