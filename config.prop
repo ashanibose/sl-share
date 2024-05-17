@@ -1,0 +1,11 @@
+webdriver.driver.path=C:\\Users\\ashan\\GIT\\Driver\\chromedriver-win32_125\\chromedriver.exe
+webdriver.driver.type=CHROME
+#webdriver.driver.path=C:\\Users\\ashan\\GIT\\Driver\\edgedriver_win64_1\\msedgedriver.exe
+#webdriver.driver.type=IE
+
+work.directory=C:\\Users\\ashan\\GIT\\SCRIPTLESS\\cli-share\\test
+
+#scan.obj.type=INPUT,TD,ANCHOR,IMG,IFRAME,SPAN,DIV,PARA
+scan.obj.type=input,button
+#pat.xpath.INPUT=//input[@id={id}],//input[@name={name}]
+#pat.xpath.A=//a[@id={id}],//a[@name={name}],//a[@href={value}]
