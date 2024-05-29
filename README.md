@@ -11,8 +11,7 @@ A command line tool to navigate and scan webapplications.
 - Download config.prop and keep at same folder as the scriptless-cli jar.
 - Updated the config.prop for driver type and location
 
-Run:
-java -Xmx1024m -Xms1024m -jar scriptless-cli-[version].RELEASE.jar
+- Execute command > java -Xmx1024m -Xms1024m -jar scriptless-cli-[version].RELEASE.jar
 
 ## Features
 - **Clears data**
