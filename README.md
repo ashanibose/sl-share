@@ -3,13 +3,13 @@
 A command line tool to navigate and scan webapplications.
 
 ## Run instruction
-Install JDK8: https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
-Install 7zipk: https://www.7-zip.org/download.html
-Dowload chromedriver or msedgedriver according to the browser version
+- Install JDK8: https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+- Install 7zipk: https://www.7-zip.org/download.html
+- Dowload chromedriver or msedgedriver according to the browser version
 
-Download all scriptless-cli split zip files and merge split zip files with 7zip
-Download config.prop and keep at same folder as the scriptless-cli jar.
-Updated the config.prop for driver type and location
+- Download all scriptless-cli split zip files and merge split zip files with 7zip
+- Download config.prop and keep at same folder as the scriptless-cli jar.
+- Updated the config.prop for driver type and location
 
 Run:
 java -Xmx1024m -Xms1024m -jar scriptless-cli-[version].RELEASE.jar
