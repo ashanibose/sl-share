@@ -8,7 +8,7 @@ A command line tool to navigate and scan webapplications.
 - Dowload chromedriver or msedgedriver according to the browser version
 - Download all scriptless-cli split zip files and merge split zip files with 7zip
 - Download config.prop and keep at same folder as the scriptless-cli jar.
-- Updated the config.prop for driver type and location
+- Updated the config.prop for driver type and path. Also update the work folder.
 - Execute command > java -Xmx1024m -Xms1024m -jar scriptless-cli-[version].RELEASE.jar
 - For test run following command > start
 
