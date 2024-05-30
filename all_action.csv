@@ -1,0 +1,5 @@
+frmScrId,toSrcId,frmScrNm,toSrcNm,xpath,action,value
+0,1,0,login,,loadurl,https://demo.guru99.com/test/login.html
+0,1,0,login,//input[@id='email'],inputtxt,
+0,1,0,login,//input[@id='passwd'],inputtxt,
+0,1,0,login,//button[@id='SubmitLogin'],clickbutton,
